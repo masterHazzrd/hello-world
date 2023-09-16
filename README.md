@@ -4,4 +4,4 @@
 ### John M Gallagher
 ---
 
-[Intro](https://github.com/masterHazzrd/web115/blob/main/introduction.html)
+[Intro](https://masterhazzrd.github.io/web115/introduction.html)
